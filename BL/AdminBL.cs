@@ -43,6 +43,8 @@ namespace Observer_News.BL
                     publisher.NewsDTO = news;
                     publisher.NotifyObserver();
                     break;
+                    int a;
+                    int b;
                 }
             }
         }
